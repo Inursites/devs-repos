@@ -1,2 +1,2 @@
 # devs-repos
-Template for developers teams, contributors and browse repositories.
+Template for developers teams, contributors and browse open source repositories.
