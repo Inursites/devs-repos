@@ -1,2 +1,2 @@
 # devs-repos
-Template for developers teams, contributors and browse open source repositories.
+Template to spin up your web3 devs labs to showcase developers team, contributors and browse repositories.
